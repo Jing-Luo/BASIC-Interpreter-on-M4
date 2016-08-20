@@ -1,0 +1,8 @@
+LET x = 2
+LET y = 3
+LET x = x + y
+LET y = x - y
+LET x = x - y
+PRINT x
+PRINT y
+QUIT

@@ -1,0 +1,25 @@
+10 REM a / b + c / d
+20 INPUT a
+30 INPUT b
+40 INPUT c
+50 INPUT d
+60 LET x = a * d + b * c
+70 LET y = b * d
+80 LET p = x
+90 LET q = y
+100 IF p = 0 THEN 150
+110 LET t = q - q / p * p
+120 LET q = p
+130 LET p = t
+140 GOTO 100
+150 LET x = x / q
+160 LET y = y / q
+170 PRINT x
+180 PRINT y
+190 END
+RUN
+1
+6
+3
+4
+QUIT

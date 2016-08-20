@@ -1,0 +1,4 @@
+LET x = 1
+LET x = x + x
+PRINT x
+QUIT

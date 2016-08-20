@@ -1,0 +1,7 @@
+10 LET x = 1
+LET x = 2
+15 PRINT x
+PRINT x
+RUN
+PRINT x
+QUIT

@@ -1,0 +1,16 @@
+10 REM reverse
+20 INPUT x
+30 LET y = 0
+40 IF x = 0 THEN 100
+50 LET y = y * 10
+60 LET z = x - x / 10 * 10
+70 LET y = y + z
+80 LET x = x / 10
+90 GOTO 40
+100 PRINT y
+110 END
+RUN
+1024
+RUN
+1000
+QUIT

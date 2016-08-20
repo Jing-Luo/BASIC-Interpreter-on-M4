@@ -1,0 +1,13 @@
+10 REM detect line number error
+20 LET a = 2
+40 LET b = 1
+60 LET i = 0
+80 LET b = a + b
+100 LET a = b - a
+120 PRINT a
+140 PRINT b
+160 LET i = i + 1
+180 IF i < 9 THEN 61
+200 END
+RUN
+QUIT

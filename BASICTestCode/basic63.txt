@@ -1,0 +1,5 @@
+INPUT x
+0xFF
+193
+PRINT x
+QUIT

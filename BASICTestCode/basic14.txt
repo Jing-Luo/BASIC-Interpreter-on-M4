@@ -1,0 +1,3 @@
+CLEAR
+LIST
+QUIT

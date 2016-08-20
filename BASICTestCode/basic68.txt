@@ -1,0 +1,4 @@
+10 REM test line 1
+LIST
+RUN
+QUIT

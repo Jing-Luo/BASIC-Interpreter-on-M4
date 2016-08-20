@@ -1,0 +1,6 @@
+10 PRINT x
+LET x = 3
+RUN
+LET x = 9
+RUN
+QUIT

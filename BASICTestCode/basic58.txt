@@ -1,0 +1,10 @@
+INPUT x
+10
+INPUT y
+20
+LET t = x
+LET x = y
+LET y = t
+PRINT x
+PRINT y
+QUIT

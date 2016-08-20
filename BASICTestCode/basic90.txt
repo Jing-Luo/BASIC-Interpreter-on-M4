@@ -1,0 +1,10 @@
+5 REM Print min - max
+10 FOR T = min TO max
+20 PRINT T
+30 NEXT T
+6 INPUT min
+8 INPUT max
+RUN
+2
+22
+QUIT

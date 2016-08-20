@@ -1,0 +1,14 @@
+10 REM calc x!
+20 INPUT x
+30 LET t = 1
+40 IF x = 0 THEN 80
+50 LET t = t * x
+60 LET x = x - 1
+70 GOTO 40
+80 PRINT t
+90 END
+RUN
+4
+RUN
+6
+QUIT

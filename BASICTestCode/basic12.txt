@@ -1,0 +1,14 @@
+10 REM test line 1
+20 REM test line 2
+30 REM test line 3
+15 REM test line 4
+25 REM test line 5
+10000 REM test line 6
+18 REM test line 7
+22 REM test line 8
+19 REM test line 9
+10000 REM test line 10
+20000 REM test line 11
+LIST
+QUIT
+

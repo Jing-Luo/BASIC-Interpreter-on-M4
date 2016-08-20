@@ -1,0 +1,16 @@
+10 REM get Max value
+20 INPUT x
+30 LET max = x
+40 IF x = 0 THEN 90
+50 INPUT x
+60 IF x < max THEN 40
+70 LET max = x
+80 GOTO 40
+90 PRINT max
+RUN
+3
+100
+20
+120
+0
+QUIT

@@ -1,0 +1,5 @@
+LET x = 100
+INPUT x
+200
+PRINT x
+QUIT

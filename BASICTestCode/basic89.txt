@@ -1,0 +1,19 @@
+10 REM add
+20 INPUT x
+30 IF x = 0 THEN 60
+15 LET sum = 0
+40 LET sum = sum + x
+50 GOTO 20
+60 PRINT sum
+70 END
+RUN
+1
+2
+3
+4
+5
+0
+RUN
+0
+QUIT
+

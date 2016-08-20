@@ -1,0 +1,11 @@
+10 REM calc SUM i = 1, 100, i
+20 LET sum = 0
+30 LET i = 1
+40 LET sum = sum + i
+50 IF i = 100 THEN 80
+60 LET i = i + 1
+70 GOTO 40
+80 PRINT sum
+90 END
+RUN
+QUIT

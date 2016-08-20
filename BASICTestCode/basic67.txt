@@ -1,0 +1,4 @@
+LET x = 3
+CLEAR
+PRINT x
+QUIT

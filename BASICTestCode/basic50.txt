@@ -1,0 +1,8 @@
+LET x = 1
+LET y = 2
+LET t = x
+LET x = y
+LET y = t
+PRINT x
+PRINT y
+QUIT

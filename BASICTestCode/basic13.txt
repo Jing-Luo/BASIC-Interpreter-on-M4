@@ -1,0 +1,6 @@
+10 REM test line 1
+20 REM test line 2
+30 REM test line 3
+CLEAR
+LIST
+QUIT

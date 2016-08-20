@@ -1,0 +1,4 @@
+INPUT x
+3
+PRINT x
+QUIT

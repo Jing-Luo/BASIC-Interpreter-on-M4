@@ -1,0 +1,17 @@
+10 REM print fibnacci
+
+20 LET a = 1
+40 LET b = 1
+59 INPUT N
+60 FOR i = 1 TO N
+78 LET c = a + b
+73 LET b = c
+70 LET a = b
+65 PRINT a
+150 NEXT i
+50 LET c = a + b
+160 END
+LIST
+RUN
+20
+QUIT
