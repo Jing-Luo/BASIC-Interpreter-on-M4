@@ -10,7 +10,7 @@ LCD display: use 12864B LCD to display instructions and running results.
 
 # 嵌入式系统项目：基于M4板的BASIC解释器的实现
 
-嵌入式课程的开放式课题，在TI公司的EK-TM4C1294XL开发板上实现BASIC语言解析的功能。详见目录中的项目报告，KEIL代码见KeilSourceCode文件夹。
+嵌入式课程的开放式课题，在TI公司的EK-TM4C1294XL开发板上实现BASIC语言解析的功能。项目文件详见目录中的项目报告，KEIL代码见KeilSourceCode文件夹。
 
 ### 项目成果
 
