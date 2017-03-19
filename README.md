@@ -19,9 +19,14 @@ LCD display: use 12864B LCD to display instructions and running results.
 加入LCD显示功能：引入12864B型LCD，显示指令及运行结果。
 
 ### BASIC解析器的实现细节
-*表达式树的建立与运算
-*指令的储存和运行
-*代码的完备性和健壮性
-*对Basic程序语句和控制指令的支持和扩展
-*允许乱序输入行号
-*Error Report机制
+
+表达式树的建立与运算
+指令的储存和运行
+
+### 代码的完备性和健壮性
+
+对Basic程序语句和控制指令的支持和扩展
+
+允许乱序输入行号
+
+Error Report机制
