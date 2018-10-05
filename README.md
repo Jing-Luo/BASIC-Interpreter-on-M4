@@ -15,7 +15,7 @@ LCD display: use 12864B LCD to display instructions and running results.
 ![](/Demo/Demo1.png)
 
 * Error Report
-![](/Demo/Demo.png)
+![](/Demo/Demo2.png)
 
 
 # 嵌入式系统项目：基于M4板的BASIC解释器的实现
